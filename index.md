@@ -1,6 +1,8 @@
-# Building Websites with Jekyll
+# {{ site.title }}
 
 ## Description
+
+{{ site.description }}
 
 We are learning about webpage creation with Jekyll in GitHub. This is my example webpage.
 
@@ -10,4 +12,6 @@ Internal link example
 
 [About page](about)
 
+## Contact us
 
+Email: {{ site.email }}
