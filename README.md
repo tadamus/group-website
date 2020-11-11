@@ -50,7 +50,7 @@ print('Hello World')
 ```
 #### R
 ```r
-print(paste("How,"are","you?"), quote = FALSE)
+print(paste("How","are","you?"), quote = FALSE)
 ```
 
 #### Python
@@ -63,7 +63,7 @@ print(s)
 <!DOCTYPE html>
 <html>
   <body>
-    <a href=https://carepntries.org/>This is a link</a>
+    <a href=https://carpentries.org/>This is a link</a>
   </body>
 </html>
 ```
