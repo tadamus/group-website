@@ -44,3 +44,47 @@ Larger code snippets look like this:
 ```
 print('Hello World')
 ```
+Adding the language, in this example python
+```python
+print('Hello World')
+```
+#### R
+```r
+print(paste("How,"are","you?"), quote = FALSE)
+```
+
+#### Python
+```python
+s = "How are you?"
+print(s)
+```
+
+```
+<!DOCTYPE html>
+<html>
+  <body>
+    <a href=https://carepntries.org/>This is a link</a>
+  </body>
+</html>
+```
+
+[The Carpentries](https://carpentries.org/)
+
+I would like to use [this site][carpentries-tag].
+
+[carpentries-tag]: https://carpentries.org/
+
+#### Exercise
+
+Example links:
+1. [___](https://carpentries.org/)
+2. [___]___case-InSeNsiTiVe-reference-tag___
+
+[case-insensitive-reference-tag]: https://carpentries.org/
+
+#### Solution
+Example links:
+1. [Reference link](https://carpentries.org/)
+2. [Inline Link][case-InSeNsiTiVe-reference-tag]
+
+[case-insensitive-reference-tag]: https://carpentries.org/
