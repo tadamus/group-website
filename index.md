@@ -3,3 +3,5 @@
 ## Description
 
 We are learning about webpage creation with Jekyll in GitHub. This is my example webpage.
+
+[Link to About page](https://github.com/tadamus/group-website/about)
